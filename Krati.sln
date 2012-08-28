@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KratiTest", "src\KratTest\KratiTest.csproj", "{A64A4D41-221F-4817-80ED-9B00B8258339}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KratiTest", "src\KratiTest\KratiTest.csproj", "{A64A4D41-221F-4817-80ED-9B00B8258339}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
