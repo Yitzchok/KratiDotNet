@@ -7,7 +7,7 @@ using krati.core;
 using krati.core.segment;
 using krati.store;
 
-namespace KratTest
+namespace KratiTest
 {
     public class KratiDataStore : IDisposable
     {
